@@ -4,7 +4,8 @@
 * (664) 610 69 12
 
 ## Perfil profesional
-* Fisioterapeuta afectuoso, orientado al trabajo en equipo y de convicciones humanistas. Dispuesto a colaborar en un ambiente laboral que me permita utilizar habilidades interpersonales y de pensamiento critico. Asimismo contribuir a las necesidades de la organizacion y de la sociedad.
+Fisioterapeuta afectuoso, orientado al trabajo en equipo y de convicciones humanistas. Dispuesto a colaborar en un ambiente laboral que me permita utilizar habilidades interpersonales y de pensamiento critico. Asimismo contribuir a las necesidades de la organizacion y de la sociedad.
+
 ## Experiencia profesional
 
 ### Centro de Alto Rendimiento, Tijuana
