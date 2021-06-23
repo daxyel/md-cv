@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Daniel Cachú Luna
+- ---------------------------------
+* d_cachu@hotmail.com
+* (664) 610 69 12
 
-You can use the [editor on GitHub](https://github.com/daxyel/md-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Perfil profesional
+* Fisioterapeuta afectuoso, orientado al trabajo en equipo y de convicciones humanistas. Dispuesto a colaborar en un ambiente laboral que me permita utilizar habilidades interpersonales y de pensamiento critico. Asimismo contribuir a las necesidades de la organizacion y de la sociedad.
+## Experiencia profesional
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Centro de Alto Rendimiento, Tijuana
+Pasante de fisioterapia deportiva, fecha
+* Colabore con medicos del deporte en la aplicacion de tratamientos especificos a atletas de alto rendimiento
+* Utilicé agentes fisicos de termoterapia e hidroterapia en el tratamiento de lesiones deportivas, incluido el uso de parafina, compresas y tinas de agua.
+* Maneje equipo de electroterapia, ondas de choque, laser, ultrasonido y diatermia.
+* Facilite la recuperacion fisica de atletas, utilizando estiramientos y masajes pre-competitivo y post-competitivo
+* Asisti a deportistas de diversas disciplinas en la ejecucion correcta de sus ejercicios terapeuticos.
 
-### Markdown
+### Fundación María, Tijuana
+Pasante de fisioterapia, fecha
+* Forme parte de un equipo para evaluar y tratar pacientes geriatricos pertenecientes a una casa hogar.
+* Contribui en la seleccion de ejercicios y actividades dinamicas, con el objetivo de mejorar rango articular, coordinacion, equilibro, marcha y fuerza muscular.
+* Motive e instrui a grupos de 10 pacientes geriatricos; en la ejecucion de activiades grupales.
+* Evalue marcha, balance y riesgos de caidas, utilizando la escala de tinetti
+* Valore la dependendia e indepencia funcional de las activiades de la vida diaria, utilizando la escala de barthel y katz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hospital de Salud Mental de Tijuana
+Pasante de fisioterapia, fecha
+* Realice practicas profesionales a población geriatrica padeciente de enfermedades mentales.
+* Trabaje bajo la supervision de especialistas, en la elaboracion de rutinas grupales para pacientes con transtornos depresivos, ansiedad e hipomania.
+* Demostre habilidades interpersonales de escucha, empatia y paciencia.  
 
-```markdown
-Syntax highlighted code block
+## Educacion
+--------------------------------
+### Unus Universidad, Lincenciatura en Fisioterapia 2016-19 
+* Curso relevante. (revelant coursework): Anatomia
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daxyel/md-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
