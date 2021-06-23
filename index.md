@@ -7,7 +7,7 @@
 Fisioterapeuta afectuoso, orientado al trabajo en equipo y de convicciones humanistas. Dispuesto a colaborar en un ambiente laboral que me permita utilizar habilidades interpersonales y de pensamiento critico. Asimismo contribuir a las necesidades de la organizacion y de la sociedad.
 
 ## Experiencia profesional
-
+----------------------------------
 ### Centro de Alto Rendimiento, Tijuana
 Pasante de fisioterapia deportiva, fecha
 * Colabore con medicos del deporte en la aplicacion de tratamientos especificos a atletas de alto rendimiento
